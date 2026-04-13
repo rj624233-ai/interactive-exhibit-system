@@ -1,5 +1,5 @@
 
-# 🧩 Interactive Museum Exhibit System
+# 🧩 Interactive Exhibit System
 
 A sensor-based interactive exhibit system built using **Raspberry Pi** and **Arduino**, designed to create real-time, user-driven experiences for museum installations.
 
