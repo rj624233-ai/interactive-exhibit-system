@@ -23,6 +23,7 @@ The interaction is designed to be **intentional and stable**, requiring continuo
 - 🔹 Designed for real-world continuous operation 
 
 ---
+## 🧠 System Architecture
 
     +------------------+
     |   IR Sensors     |
@@ -48,10 +49,6 @@ The interaction is designed to be **intentional and stable**, requiring continuo
     |   Display + VLC  |
     |  Video Playback  |
     +------------------+
-
-
-## 🧠 System Architecture
-
 
 ---
 
