@@ -71,9 +71,4 @@ The interaction is designed to be **intentional and stable**, requiring continuo
 🟡 Ongoing Freelance Project  
 Currently under development and testing phase.
 
----
-
-## ⭐ Contribution
-
-This is a freelance project. Suggestions and improvements are welcome.
 
