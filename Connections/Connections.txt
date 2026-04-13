@@ -1,0 +1,41 @@
+🔌 Hardware Connections
+🧩 Arduino + IR Sensors
+IR Sensor 1        Arduino UNO
+-----------        -----------
+VCC      --------> 5V
+GND      --------> GND
+OUT      --------> Pin 2
+
+IR Sensor 2        Arduino UNO
+-----------        -----------
+VCC      --------> 5V
+GND      --------> GND
+OUT      --------> Pin 3
+
+🔗 Arduino to Raspberry Pi
+Arduino UNO        Raspberry Pi
+------------       -------------
+USB Cable   -----> USB Port
+
+🖥️ Raspberry Pi to Display
+Raspberry Pi       Monitor
+-------------      --------
+HDMI Port   -----> HDMI Cable
+
+(If VGA Monitor)
+HDMI -----> HDMI to VGA Converter -----> VGA Monitor
+
+🔊 Audio Output (Optional)
+Raspberry Pi       Speaker
+-------------      --------
+3.5mm Jack  -----> AUX Cable
+or
+USB         -----> USB Speaker
+
+⚡ Power Connections
+Device              Power Source
+------              ------------
+Raspberry Pi  ----> 5V Adapter (Type-C / Micro USB)
+Arduino UNO  ----> USB (from Pi or Adapter)
+Sensors       ----> Arduino 5V
+
